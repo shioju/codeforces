@@ -11,6 +11,7 @@ Based on the problems i've attempted so far:
 | Difficulty | What is needed to solve this |
 | ---------- | ---------------------------- |
 | 800        | conditionals                 |
-| 900        | loops and conditionals       |
+| 900        | loops, conditionals          |
+| 1000       | loops, math                  |
 
 Let me know if you encounter a problem which doesn't match up to my table above.
