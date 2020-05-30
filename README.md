@@ -13,5 +13,6 @@ Based on the problems i've attempted so far:
 | 800        | conditionals                 |
 | 900        | loops, conditionals          |
 | 1000       | loops, math, simple puzzle   |
+| 1100       | loops, math, simple puzzle   |
 
 Let me know if you encounter a problem which doesn't match up to my table above.
