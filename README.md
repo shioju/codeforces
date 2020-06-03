@@ -15,6 +15,6 @@ Based on the problems i've attempted so far:
 | 1000       | loops, math, simple puzzle                                         |
 | 1100       | loops, math, simple puzzle                                         |
 | 1200       | loops, sorting, multi-dimensional arrays, 1d constructive algoritm |
-| 1300       | loops, 2d constructive algorithm                                   |
+| 1300       | loops, 2d constructive algorithm, divisibility                     |
 
 Let me know if you encounter a problem which doesn't match up to my table above.
