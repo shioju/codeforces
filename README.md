@@ -8,12 +8,13 @@ The problem statements can be found on `https://codeforces.com/problemset/proble
 ## My assessment of the difficulty ratings on codeforces.com
 Based on the problems i've attempted so far:
 
-| Difficulty | What is needed to solve this               |
-| ---------- | ------------------------------------------ |
-| 800        | conditionals                               |
-| 900        | loops, conditionals                        |
-| 1000       | loops, math, simple puzzle                 |
-| 1100       | loops, math, simple puzzle                 |
-| 1200       | loops, sorting, multi-dimensional arrays   |
+| Difficulty | What is needed to solve this                                       |
+| ---------- | ------------------------------------------------------------------ |
+| 800        | conditionals                                                       |
+| 900        | loops, conditionals                                                |
+| 1000       | loops, math, simple puzzle                                         |
+| 1100       | loops, math, simple puzzle                                         |
+| 1200       | loops, sorting, multi-dimensional arrays, 1d constructive algoritm |
+| 1300       | loops, 2d constructive algorithm                                   |
 
 Let me know if you encounter a problem which doesn't match up to my table above.
