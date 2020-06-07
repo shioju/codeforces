@@ -16,6 +16,6 @@ Based on the problems i've attempted so far:
 | 1100       | loops, math, simple puzzle                                          |
 | 1200       | loops, sorting, multi-dimensional arrays, 1d constructive algorithm |
 | 1300       | loops, 2d constructive algorithm, divisibility                      |
-| 1400       | loops, bitmask, heap, large numbers                                 |
+| 1400       | loops, 2d transformations, bitmask, heap, large numbers             |
 
 Let me know if you encounter a problem which doesn't match up to my table above.
