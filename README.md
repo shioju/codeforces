@@ -18,5 +18,6 @@ Based on the problems i've attempted so far:
 | 1300       | loops, 2d constructive algorithm, divisibility                      |
 | 1400       | loops, 2d transformations, bitmask, heap, large numbers             |
 | 1500       | loops, repeated operations between 2 x 1d-arrays, memoization       |
+| 1600       | loops, hard-coded maps                                              |
 
 Let me know if you encounter a problem which doesn't match up to my table above.
