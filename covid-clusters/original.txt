@@ -1,0 +1,29 @@
+// data structure - adjacency matrix
+
+// number of people = n
+vector<int, vector<int>> contacts;
+
+vector<int> origin(n+1, 0);
+deque<int> unprocessed = "contains initial infected";
+
+while (unprocessed.size() > 0) {
+    int n = unprocessed.dequeue();
+
+    if (origin[n]==0) origin[n] = n;
+    
+    for (int i=0; i<contacts[n]; i++) {
+        if (origin[contact[i]] == 0) {
+            origin[contact[i]] = origin[n];
+            unprocessed.enqueue(i);
+        }
+    }
+}
+
+int total_infected;
+
+for (int i=0; i<n; i++) {
+    if (origin[i].size() > 0) {
+        cout << "size of cluster " << i << " is " << origin[i].size() << endl;
+        total_infected += origin[i].size();
+    }
+}
