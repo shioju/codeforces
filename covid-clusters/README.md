@@ -1,18 +1,17 @@
 
 # COVID-19 Clusters
 
-With the loosening of circuit breaker measures, new cases and clusters are expected to form. Thankfully (or unfortunately), each person is embedded with a contact tracing chip that records people they had contact with. With this technology in place, it is easier to simulate the clusters that could form with a few seeding infections.
+With the loosening of circuit breaker measures, new cases and clusters are expected to form. Thankfully (or unfortunately), each person is embedded with a contact tracing chip that records people they had contact with. With this technology in place, you are tasked to develop a program that lists the clusters given the seeding infections.
 
 #### Inputs:
 The first line of the input contains an integer `n`, the number of people in the population.
-The second line of the input contains information on the seed infections, starting with an integer `m` -- the number of infected, followed by a space-separated list of `m` people who are initially infected.
-The next `n` lines contains the number of contacts each person had, and the list of people they had contact with.
+The second line of the input contains information on the seeding infections, starting with an integer `m` -- the number of seeding infections, followed by a space-separated list of `m` people who are initially infected.
+The next `n` lines contains the number of contacts each person had, along with the list of people they had contact with.
 
 Each person is represented uniquely by an integer from `1` to `n`.
 
 #### Outputs:
 Print the number of clusters and the size of each cluster
-
 
 
 #### Example:
