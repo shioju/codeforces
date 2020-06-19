@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int t=1, node[20001], start[20001], finish[20001];
-set<int> sub[20001];
+int t=1, node[200001], start[200001], finish[200001];
+set<int> sub[200001];
 
 void dfs(int v) {
   node[t] = v;
